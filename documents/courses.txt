@@ -1,0 +1,11 @@
+The Master of Computer Applications (MCA) is a two-year postgraduate program.
+
+The MCA program focuses on software development, programming, databases, web technologies, cloud computing, machine learning, and artificial intelligence.
+
+Students learn programming languages such as Python and Java.
+
+The program also covers database management systems, computer networks, operating systems, software engineering, and data structures.
+
+The Master of Science in Computational Data Science is a postgraduate program focused on data analysis, statistics, machine learning, artificial intelligence, and data visualization.
+
+Students in the Computational Data Science program work with Python, NumPy, Pandas, machine learning algorithms, and data visualization techniques.
