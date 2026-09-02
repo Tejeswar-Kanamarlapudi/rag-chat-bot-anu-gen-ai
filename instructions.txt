@@ -1,0 +1,10 @@
+To run this rag_chatbot, first paste your own text documents into the documents folder to create the knowledge base.
+Then, create a .env file and add your API key as a variable like this:
+GEMINI_API_KEY = YOUR_API_KEY_1234Next, 
+open your command prompt or terminal and install the required libraries using:
+pip install -r requirements.txt
+
+Then, run the python file named rag_chatbot.py in the command prompt to start the chatbot process.
+You can now ask any questions related to your documents. 
+If you encounter any errors, please check your Gemini API key and model once, 
+as I have used the Gemini 3.5 Flash model here.
